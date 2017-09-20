@@ -1,0 +1,1 @@
+presidents.o: ../presidents.cpp
