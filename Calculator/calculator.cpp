@@ -1,9 +1,3 @@
-/*
- * calculator.cpp
- *
- *  Created on: 12-Apr-2017
- *      Author: avadh
- */
 
 #include<iostream>
 #include<ctype.h>
