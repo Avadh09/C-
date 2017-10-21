@@ -1,7 +1,3 @@
-// Avadh Boriya
-// 011487242
-
-
 #include <iostream>
 #include <iomanip>
 #include<stdio.h>
